@@ -1,0 +1,4 @@
+Zapytanie 1: INSERT INTO `uzytkownicy` VALUES ('','anna','muzyka','informatyk','K')
+Zapytanie 2: Insert into `konta` values('','AKowalska','quazwsx')
+Zapytanie 3: Select login,haslo from `konta`
+Zapytanie 4: Select zainteresowania from `uzytkownicy` where id= 1;

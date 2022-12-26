@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    margin: auto;
+}
+header{
+    color: white;
+    background-color: #9A6000;
+    font-size: 180%;
+    text-align: center;
+    padding: 20px;
+}
+#left{
+    width: 60%;
+    float: left;
+}
+#right{
+    color: white;
+    background-color: #9A6000;
+    width: 40%;
+    height: 100%;  
+    float: left;
+}
+h3{
+    text-align: center;
+}
+li{
+    padding: 10px;
+}
